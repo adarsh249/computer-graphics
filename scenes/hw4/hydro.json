@@ -1,0 +1,27 @@
+{
+    "camera":
+    {
+        "resolution": [800, 600],
+        "transform": [
+            {
+                "lookat":
+                {
+                    "position": [-1, 0.7, 0.45],
+                    "target": [0, 0, 0],
+                    "up": [0, 0, 1]
+                }
+            }
+        ],
+        "s": 0.2,
+        "z_near": 1,
+        "z_far": 1000
+    },
+    "background": [
+        0.5, 0.5, 0.5
+    ],
+    "objects": [
+        {
+            "filename": "hydro.ply"
+        }
+    ]
+}

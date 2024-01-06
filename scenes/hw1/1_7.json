@@ -1,0 +1,98 @@
+{
+    "resolution": [700, 850],
+    "background": [
+        0.545, 0.816, 0.925
+    ],
+    "objects": [
+        {
+            "type": "rectangle",
+            "p_min": [330, 325],
+            "p_max": [370, 850],
+            "color": [0.333, 0.5, 0.02]
+        },
+        {
+            "type": "circle",
+            "color": [0.969, 0.706, 0.118],
+            "transform": [
+                {"scale": [260, 70]},
+                {"rotate": 0},
+                {"translate": [350, 325]}
+            ]
+        },
+        {
+            "type": "circle",
+            "color": [0.969, 0.706, 0.118],
+            "transform": [
+                {"scale": [260, 70]},
+                    {"rotate": 90},
+                    {"translate": [350, 325]}
+            ]
+        },
+        {
+            "type": "circle",
+            "color": [0.969, 0.706, 0.118],
+            "transform": [
+                {"scale": [260, 70]},
+                    {"rotate": 45},
+                    {"translate": [350, 325]}
+            ]
+        },
+        {
+            "type": "circle",
+            "color": [0.969, 0.706, 0.118],
+            "transform": [
+                {"scale": [260, 70]},
+                    {"rotate": 135},
+                    {"translate": [350, 325]}
+            ]
+        },
+        {
+            "type": "circle",
+            "color": [1, 0.831, 0.102],
+            "transform": [
+                {"scale": [280, 72]},
+                {"rotate": 22.5},
+                {"translate": [350, 325]}
+            ]
+        },
+        {
+            "type": "circle",
+            "color": [1, 0.831, 0.102],
+            "transform": [
+                {"scale": [280, 72]},
+                {"rotate": 112.5},
+                {"translate": [350, 325]}
+            ]
+        },
+        {
+            "type": "circle",
+            "color": [1, 0.831, 0.102],
+            "transform": [
+                {"scale": [280, 72]},
+                {"rotate": 67.5},
+                {"translate": [350, 325]}
+            ]
+        },
+        {
+            "type": "circle",
+            "color": [1, 0.831, 0.102],
+            "transform": [
+                {"scale": [280, 72]},
+                {"rotate": 157.5},
+                {"translate": [350, 325]}
+            ]
+        },
+        {
+            "type": "circle",
+            "center": [350, 325],
+            "radius": 130,
+            "color": [0.239, 0.129, 0.063]
+        },
+        {
+            "type": "circle",
+            "center": [350, 325],
+            "radius": 85,
+            "color": [0, 0, 0]
+        }
+    ]
+}
